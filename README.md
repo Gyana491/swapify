@@ -2,7 +2,7 @@
 
 - **Frontend Application**: [https://swapify.club](https://swapify.club)
 - **Admin Panel**: [https://swapify-crm.vercel.app/](https://swapify-crm.vercel.app/)
-- **For Admin Accesss contact the site admin**: [Whatsapp](https://wa.me/+918249099406)
+- **For Admin Accesss contact the site admin**: [Whatsapp](https://wa.me/918249099406?text=Hi%20Gyan%20!%20I%20need%20Admin%20Access%20for%20Swapify)
 
 
 ## **Problem Statement**
