@@ -15,6 +15,14 @@ e-Waste is rising as devices are thrown away instead of reused. Every year, mill
 
 In short, Swapify empowers people to **donate, sell, recycle, and reuse electronics and other items**—so they don’t end up in landfills, but instead find a **second life** in someone’s hands.
 
+### **How We Are Different**
+
+To make the platform safe and trustworthy:
+
+* We use a **dedicated Admin Panel with AI-powered listing approvals** to reduce spam and scams.
+* Strict rules are implemented for both **users and listings**.
+* Each region has **dedicated admins** to manage local activity and ensure quality.
+
 ## Application Screenshots
 
 ![1758731680696](images/README/1758731680696.png)
@@ -42,7 +50,6 @@ In short, Swapify empowers people to **donate, sell, recycle, and reuse electron
 
 ![1758734359703](images/README/1758734359703.png)
 *Manager Panel: Manager has the access the approve admins for a pearitcular selecteed region Ex:  Kothri Kalan*
-
 
 ![1758733401577](images/README/1758733401577.png)
 *Login Page:  Only Approved Admins For a Selected Region can Access the Admin Panel Ex: Admin Who has access to kothrikalan listing can approve and manage the listings*
