@@ -1,6 +1,12 @@
+## **Live Deployments**
+
+- **Frontend Application**: [https://swapify.club](https://swapify.club)
+- **Admin Panel**: [https://swapify-crm.vercel.app/](https://swapify-crm.vercel.app/)
+
 ## **Problem Statement**
 
 e-Waste is rising as devices are thrown away instead of reused. Every year, millions of phones, laptops, and gadgets end up in landfills, leaking harmful chemicals into the environment. People often replace devices quickly instead of repairing, recycling, or passing them on to someone who needs them.
+
 
 ### **Solution: Swapify**
 
@@ -24,6 +30,7 @@ To make the platform safe and trustworthy:
 * Each region has **dedicated admins** to manage local activity and ensure quality.
 
 ## Application Screenshots
+
 
 ![1758731680696](images/README/1758731680696.png)
 *Login Screen*
@@ -67,3 +74,32 @@ To make the platform safe and trustworthy:
 
 ![1758736794814](images/README/1758736794814.png)
 *Our Self Developed Custom Media CDN to make it more scalable *
+
+## **Project Architecture**
+
+### **Technology Stack**
+- **Frontend**: Next.js 14, React, TypeScript, Tailwind CSS
+- **Backend**: Node.js, Express.js, MongoDB, Mongoose
+- **CRM/Admin Panel**: Next.js 14 with TypeScript
+- **Media CDN**: Custom-built content delivery network
+- **Authentication**: JWT tokens, Google OAuth
+- **UI Components**: shadcn/ui
+- **Deployment**: Vercel (frontend/CRM), Custom server (backend)
+
+### **Key Features**
+- **Local-First Marketplace**: No shipping required, builds community trust
+- **AI-Powered Moderation**: Reduces spam and scams through intelligent listing approval
+- **Region-Based Administration**: Dedicated admins for quality control in specific areas
+- **Real-time Chat System**: Direct communication between buyers and sellers
+- **Offer Management**: Comprehensive system for managing buy/sell offers
+- **Sustainability Focus**: Promotes circular economy and e-waste reduction
+
+### **Components**
+1. **swapify-frontend** - User-facing marketplace application
+2. **swapify-crm** - Admin panel for platform management
+3. **swapify-backend** - REST API server with MongoDB
+4. **swapify-media-cdn** - Custom media content delivery network
+
+---
+
+**Swapify** - *Reducing e-waste, one exchange at a time.*
