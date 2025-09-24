@@ -2,8 +2,8 @@
 
 - **Frontend Application**: [https://swapify.club](https://swapify.club)
 - **Admin Panel**: [https://swapify-crm.vercel.app/](https://swapify-crm.vercel.app/)
-- **Username**: test@swapify.club
-- **password**: test@123
+- **For Admin Accesss contact**: [Whatsapp](https://wa.me/+918249099406)
+
 
 ## **Problem Statement**
 
