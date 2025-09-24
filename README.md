@@ -40,7 +40,7 @@ In short, Swapify empowers people to **donate, sell, recycle, and reuse electron
 
 ## Manager & Admin Panel (CRM Screenshots)
 
-[1758734359703](images/README/1758734359703.png)
+![1758734359703](images/README/1758734359703.png)
 *Manager Panel: Manager has the access the approve admins for a pearitcular selecteed region Ex:  Kothri Kalan*
 
 
