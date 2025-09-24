@@ -62,3 +62,8 @@ To make the platform safe and trustworthy:
 
 ![1758733586218](images/README/1758733586218.png)
 *Offer Management: Admin Have the Control To Manage The Offers, Approve and manage Offers prevent spams and scams*
+
+## Media CDN
+
+![1758736794814](images/README/1758736794814.png)
+*Our Self Developed Custom Media CDN to make it more scalable *
