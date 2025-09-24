@@ -2,11 +2,12 @@
 
 - **Frontend Application**: [https://swapify.club](https://swapify.club)
 - **Admin Panel**: [https://swapify-crm.vercel.app/](https://swapify-crm.vercel.app/)
+- **Username**: test@swapify.club
+- **password**: test@123
 
 ## **Problem Statement**
 
 e-Waste is rising as devices are thrown away instead of reused. Every year, millions of phones, laptops, and gadgets end up in landfills, leaking harmful chemicals into the environment. People often replace devices quickly instead of repairing, recycling, or passing them on to someone who needs them.
-
 
 ### **Solution: Swapify**
 
@@ -30,7 +31,6 @@ To make the platform safe and trustworthy:
 * Each region has **dedicated admins** to manage local activity and ensure quality.
 
 ## Application Screenshots
-
 
 ![1758731680696](images/README/1758731680696.png)
 *Login Screen*
@@ -78,6 +78,7 @@ To make the platform safe and trustworthy:
 ## **Project Architecture**
 
 ### **Technology Stack**
+
 - **Frontend**: Next.js 14, React, TypeScript, Tailwind CSS
 - **Backend**: Node.js, Express.js, MongoDB, Mongoose
 - **CRM/Admin Panel**: Next.js 14 with TypeScript
@@ -87,6 +88,7 @@ To make the platform safe and trustworthy:
 - **Deployment**: Vercel (frontend/CRM), Custom server (backend)
 
 ### **Key Features**
+
 - **Local-First Marketplace**: No shipping required, builds community trust
 - **AI-Powered Moderation**: Reduces spam and scams through intelligent listing approval
 - **Region-Based Administration**: Dedicated admins for quality control in specific areas
@@ -95,6 +97,7 @@ To make the platform safe and trustworthy:
 - **Sustainability Focus**: Promotes circular economy and e-waste reduction
 
 ### **Components**
+
 1. **swapify-frontend** - User-facing marketplace application
 2. **swapify-crm** - Admin panel for platform management
 3. **swapify-backend** - REST API server with MongoDB
